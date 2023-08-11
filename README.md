@@ -91,6 +91,8 @@ Open Network Security Groups in Azure. Set the port ranges to ICMP then set acti
 </p>
 <br />
 
+<h2>Observing DNS and RDP Traffic</h2>
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
