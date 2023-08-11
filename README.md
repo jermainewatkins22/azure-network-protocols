@@ -39,7 +39,7 @@ Create 2 Virtual Machine (VM) one running Windows 10 and name it "VM1". The othe
 </p>
 <br />
 
-<h2>Install Wireshark onto VM1</h2>
+<h2>Install Wireshark onto Windows 10 VM1</h2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
