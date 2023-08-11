@@ -74,10 +74,9 @@ Open Network Security Groups in Azure. Set the port ranges to ICMP then set acti
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I6bgTLc.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>In Powershell enter ssh labuser@VM2 Private IP address. Use your VM2 username and password (Password will not show in the box). Type ssh in Wireshark and press enter. Enter a Linux command: "id", "uname -a"  to observe traffic. 
 </p>
 <br />
 
