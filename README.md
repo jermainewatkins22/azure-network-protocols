@@ -91,12 +91,12 @@ Open Network Security Groups in Azure. Set the port ranges to ICMP then set acti
 </p>
 <br />
 
-<h2>Observing DNS and RDP Traffic</h2>
+<h2>Observing DNS Traffic</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/n16RBwi.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In Wireshark type DNS in the search bar and press enter. DNS translates human readable names into computer readable IP addresses. Type "nslookup" www.google.com in Powershell and observe the traffic in Wireshark. 
 </p>
 <br />
