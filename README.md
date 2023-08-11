@@ -41,10 +41,10 @@ Create 2 Virtual Machine (VM) one running Windows 10 and name it "VM1". The othe
 
 <h2>Install Wireshark onto Windows 10 VM1</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EkZh6mf.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Use Remote Desktop to connect to your Windows 10 Virtual Machine (VM), install Wireshark.
 </p>
 <br />
 
