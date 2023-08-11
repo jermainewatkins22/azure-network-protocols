@@ -85,10 +85,9 @@ Open Network Security Groups in Azure. Set the port ranges to ICMP then set acti
 <h2>Observing DHCP Traffic</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Mh9UT6L.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>In Wireshark type "DHCP" in the search bar and press enter. DHCP is used to automatically assign a new IP address. In Powershell, type ipconfig /renew to assign a new IP address. You can observe activity on Wireshark.
 </p>
 <br />
 
