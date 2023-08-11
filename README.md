@@ -35,7 +35,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/IxRBOmL.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create 2 Virtual Machine (VM) one running Windows 10 and name it "VM1". The other running Linux(Ubuntu) and name it "VM2". Select the  Resource Group and Vnet you createdwhen you made VM1.
+Create 2 Virtual Machine (VM) one running Windows 10 and name it "VM1". The other running Linux(Ubuntu) and name it "VM2". Select the  Resource Group and Vnet you created when you made VM1.
 </p>
 <br />
 
